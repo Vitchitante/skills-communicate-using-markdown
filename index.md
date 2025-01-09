@@ -10,3 +10,8 @@ This is the commit message for the creation of headers
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+  
